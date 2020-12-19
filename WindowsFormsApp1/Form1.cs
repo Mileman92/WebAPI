@@ -174,5 +174,10 @@ namespace WindowsFormsApp1
                 pdfViewer1.LoadDocument(ms);
             }
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -59,7 +59,7 @@
             // buttonDelete
             // 
             this.buttonDelete.Location = new System.Drawing.Point(518, 28);
-            this.buttonDelete.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonDelete.Margin = new System.Windows.Forms.Padding(2);
             this.buttonDelete.Name = "buttonDelete";
             this.buttonDelete.Size = new System.Drawing.Size(66, 19);
             this.buttonDelete.TabIndex = 0;
@@ -70,7 +70,7 @@
             // textBox1
             // 
             this.textBox1.Location = new System.Drawing.Point(428, 28);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(2);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(76, 20);
             this.textBox1.TabIndex = 1;
@@ -78,7 +78,7 @@
             // buttonADD
             // 
             this.buttonADD.Location = new System.Drawing.Point(518, 58);
-            this.buttonADD.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonADD.Margin = new System.Windows.Forms.Padding(2);
             this.buttonADD.Name = "buttonADD";
             this.buttonADD.Size = new System.Drawing.Size(66, 19);
             this.buttonADD.TabIndex = 2;
@@ -89,7 +89,7 @@
             // buttonGET
             // 
             this.buttonGET.Location = new System.Drawing.Point(518, 92);
-            this.buttonGET.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonGET.Margin = new System.Windows.Forms.Padding(2);
             this.buttonGET.Name = "buttonGET";
             this.buttonGET.Size = new System.Drawing.Size(66, 19);
             this.buttonGET.TabIndex = 3;
@@ -111,7 +111,7 @@
             // textBox2
             // 
             this.textBox2.Location = new System.Drawing.Point(428, 60);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(2);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(76, 20);
             this.textBox2.TabIndex = 5;
@@ -139,7 +139,7 @@
             // textBox3
             // 
             this.textBox3.Location = new System.Drawing.Point(428, 94);
-            this.textBox3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.textBox3.Margin = new System.Windows.Forms.Padding(2);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(76, 20);
             this.textBox3.TabIndex = 8;
@@ -167,7 +167,7 @@
             // textBox4
             // 
             this.textBox4.Location = new System.Drawing.Point(428, 125);
-            this.textBox4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.textBox4.Margin = new System.Windows.Forms.Padding(2);
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(76, 20);
             this.textBox4.TabIndex = 11;
@@ -175,7 +175,7 @@
             // textBox5
             // 
             this.textBox5.Location = new System.Drawing.Point(428, 158);
-            this.textBox5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.textBox5.Margin = new System.Windows.Forms.Padding(2);
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(76, 20);
             this.textBox5.TabIndex = 12;
@@ -193,7 +193,7 @@
             // textBox6
             // 
             this.textBox6.Location = new System.Drawing.Point(428, 188);
-            this.textBox6.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.textBox6.Margin = new System.Windows.Forms.Padding(2);
             this.textBox6.Name = "textBox6";
             this.textBox6.Size = new System.Drawing.Size(76, 20);
             this.textBox6.TabIndex = 14;
@@ -218,7 +218,7 @@
             dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
             this.dataGridView1.DefaultCellStyle = dataGridViewCellStyle2;
             this.dataGridView1.Location = new System.Drawing.Point(16, 28);
-            this.dataGridView1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dataGridView1.Margin = new System.Windows.Forms.Padding(2);
             this.dataGridView1.Name = "dataGridView1";
             dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
             dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control;
@@ -236,7 +236,7 @@
             // buttonUpdate
             // 
             this.buttonUpdate.Location = new System.Drawing.Point(518, 125);
-            this.buttonUpdate.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonUpdate.Margin = new System.Windows.Forms.Padding(2);
             this.buttonUpdate.Name = "buttonUpdate";
             this.buttonUpdate.Size = new System.Drawing.Size(66, 19);
             this.buttonUpdate.TabIndex = 16;
@@ -247,7 +247,7 @@
             // buttonPDF
             // 
             this.buttonPDF.Location = new System.Drawing.Point(518, 184);
-            this.buttonPDF.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.buttonPDF.Margin = new System.Windows.Forms.Padding(2);
             this.buttonPDF.Name = "buttonPDF";
             this.buttonPDF.Size = new System.Drawing.Size(66, 22);
             this.buttonPDF.TabIndex = 17;
@@ -258,7 +258,7 @@
             // pdfViewer1
             // 
             this.pdfViewer1.Location = new System.Drawing.Point(16, 243);
-            this.pdfViewer1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.pdfViewer1.Margin = new System.Windows.Forms.Padding(2);
             this.pdfViewer1.Name = "pdfViewer1";
             this.pdfViewer1.Size = new System.Drawing.Size(567, 227);
             this.pdfViewer1.TabIndex = 18;
@@ -267,7 +267,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(614, 496);
+            this.ClientSize = new System.Drawing.Size(937, 496);
             this.Controls.Add(this.pdfViewer1);
             this.Controls.Add(this.buttonPDF);
             this.Controls.Add(this.buttonUpdate);
@@ -288,10 +288,11 @@
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.buttonDelete);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -318,7 +319,7 @@
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.Button buttonUpdate;
         private System.Windows.Forms.Button buttonPDF;
-        private DevExpress.XtraPdfViewer.PdfViewer pdfViewer1;
+        public DevExpress.XtraPdfViewer.PdfViewer pdfViewer1;
     }
 }
 
