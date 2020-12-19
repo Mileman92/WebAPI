@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneDirectory", "PhoneDirectory\PhoneDirectory.csproj", "{DB4F7120-AE19-4AE4-97D6-CAAC0B6339D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{79AF9D17-1C7E-4496-8071-8E858CF9F954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB4F7120-AE19-4AE4-97D6-CAAC0B6339D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB4F7120-AE19-4AE4-97D6-CAAC0B6339D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB4F7120-AE19-4AE4-97D6-CAAC0B6339D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB4F7120-AE19-4AE4-97D6-CAAC0B6339D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79AF9D17-1C7E-4496-8071-8E858CF9F954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79AF9D17-1C7E-4496-8071-8E858CF9F954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79AF9D17-1C7E-4496-8071-8E858CF9F954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79AF9D17-1C7E-4496-8071-8E858CF9F954}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {655CCE04-7FFE-4690-BC5E-8ED0038B9E40}
+	EndGlobalSection
+EndGlobal
